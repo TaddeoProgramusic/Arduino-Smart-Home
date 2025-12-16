@@ -1,2 +1,2 @@
 # Arduino-Smart-Home
-That smart home is controlled with an appinventor APK (it doesn't work in Iphone). The smart home has a light, code door and fan system controlled with the appinventor app
+This smart home is controlled using an AppInventor app. It includes a light, a passcode‑protected door, and a fan system. The default door code is 0000, but you can change it directly in AppInventor.
